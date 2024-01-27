@@ -31,4 +31,8 @@ To do:
   Fuel - made in PRC from, hydrogen and enriched carbon
   Jammer - will give "jammed effect" to block in the area (undecied)
   Commnads for server admins to disable/anble fighter jets, bombs, mininukes, bomb explosions, mininuke explosions, jammed effect, short circuit effect
+  Bat queen bos - based on ender dragon, a small bos who will be spawned at the Nuke bomb crater
+  Valuable isotopes - a new resource, that spawn in the crator will have a life time of 1 hour befero "fissurin away", will have to be "enriched" in isotopic centrifuges to be converted into Roentgenium 
+  Mini fission reactor - a one block structure, can be extended to 3 * 3 * 3 blocks max, will only require fission fuel, will only output electricity, no cooling required producec spent nuclear waste, cannot explode, after destruction, does not relase radiation
+  
 Addition INFO - short circuit effect does not cost any power, crafting recepies will be posted as images, will try to update once in while ( i´m lazy)
